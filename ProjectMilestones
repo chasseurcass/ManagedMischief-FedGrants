@@ -1,0 +1,10 @@
+Table
+  Project_Milestones
+Fields
+  Grantee_ID
+  Milestone_ID
+  Milestone_Description
+  Expected_Completion_Date
+  Actual_Completion_Date
+  Assigned_To
+  Progress_Log
