@@ -1,0 +1,8 @@
+Table: 
+  Expenditure
+
+Fields
+  Grantee_ID
+  Expense_Category
+  Expense_Amount
+  Expense_Date
