@@ -1,0 +1,27 @@
+Using the specific CFDA (Catalog of Federal Domestic Assistance) number as the primary key for each grant is a sound idea, especially since these numbers are unique to each federal program. Here’s how you can modify the table design to incorporate this:
+
+1. **Modify Table Design for CFDA Number**:
+   - Open the 'tblGrantInfo' table in Design View.
+   - Add a new field named "CFDA Number". 
+   - Set the data type to 'Text', as CFDA numbers often have a format that includes digits and decimals (e.g., 10.001).
+
+2. **Set CFDA Number as Primary Key**:
+   - Click on the row selector (the small box or bar to the left of the field name) for the "CFDA Number" field.
+   - Click the 'Primary Key' button in the toolbar to set this field as the primary key. This ensures that each record has a unique CFDA number.
+
+3. **Adjust Other Fields Accordingly**:
+   - Since the CFDA Number is now the primary identifier, you might want to review and adjust other fields accordingly.
+   - For instance, you might still keep the 'Grant Name' and 'Year' fields, but they won't be primary keys.
+
+4. **Save Changes**:
+   - Save your changes to the table design.
+
+5. **Data Validation**:
+   - Consider adding data validation rules to ensure that CFDA numbers are entered in the correct format.
+
+6. **Updating Data Entry Forms**:
+   - If you plan to use forms for data entry, make sure to include the CFDA Number field and possibly set it as a required field.
+
+Remember, when you use the CFDA number as the primary key, each record in this table must have a unique CFDA number. If your database will include multiple entries for a single CFDA number across different years or other categories, you might need a composite key or a different approach to uniquely identify each record.
+
+Would you like to proceed with more details on this or guidance on another part of the database?
