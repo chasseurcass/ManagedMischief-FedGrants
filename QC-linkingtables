@@ -1,0 +1,38 @@
+Ensuring that all tables in your database are correctly linked is crucial for data integrity and efficient data management. In Microsoft Access, this is primarily done through establishing relationships between tables based on common fields. Here's a step-by-step guide to ensure your tables are linked correctly:
+
+1. **Identify Common Fields**:
+   - Review each table and identify fields that are common between them. For your grant database, this would typically be fields like 'Grant CFDA Number'.
+
+2. **Open the Relationships Window**:
+   - Go to the Database Tools tab and click on 'Relationships'.
+   - This opens a window where you can visually manage the relationships between tables.
+
+3. **Creating Relationships**:
+   - Drag the common field (e.g., 'Grant CFDA Number') from one table and drop it onto the same field in the related table.
+   - Access will prompt you to define the relationship.
+   - Choose the type of relationship (one-to-many, many-to-many, etc.). In most cases, you’ll likely use one-to-many relationships, where one record in a table (like a specific grant) relates to many records in another table (like milestones or financial entries for that grant).
+
+4. **Referential Integrity**:
+   - When creating relationships, enable 'Enforce Referential Integrity' to ensure that there are matching values in the related tables and to prevent orphan records.
+   - This means you cannot have a record in a child table (like milestones) that doesn’t have a corresponding record in the parent table (like grants).
+
+5. **Cascade Options**:
+   - Consider whether to use 'Cascade Update Related Fields' and 'Cascade Delete Related Records'. These options automatically update or delete related records in child tables when the corresponding record in the parent table is updated or deleted. Use these options cautiously, as they can result in significant changes to your data.
+
+6. **Review and Adjust Relationships**:
+   - After setting up your relationships, review them to ensure they correctly represent the logical connections between your data elements.
+   - Make adjustments as necessary, especially if your database structure or data requirements change.
+
+7. **Test the Relationships**:
+   - Enter some test data into your tables to make sure the relationships work as expected.
+   - Try adding, updating, and deleting records to see how changes in one table affect related tables.
+
+8. **Document Your Database Structure**:
+   - Keep a record or diagram of your database structure and relationships. This documentation is invaluable for future reference, troubleshooting, and making informed changes.
+
+9. **Regular Reviews and Maintenance**:
+   - Regularly review your database relationships as part of your database maintenance routine. This ensures they continue to meet your needs and function correctly.
+
+By carefully setting up and managing the relationships between your tables, you'll ensure your database operates efficiently and accurately reflects the connections between different aspects of your grant management system.
+
+If you have specific questions about relationships in Access or need further assistance, feel free to ask!
