@@ -1,0 +1,9 @@
+Table
+  Grantee_Information
+Fields:
+  CDFA# 
+  Grantee_ID 
+    (Formatted as follows—CDFA#-GrantName-2digit year, the PSN grants have an additional distinction per region ex, 16.609-PSN-N-23)
+  Year 
+  Project_Director_Email
+  Financial_Officer_Email
