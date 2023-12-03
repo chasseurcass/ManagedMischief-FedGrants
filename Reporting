@@ -1,0 +1,11 @@
+Table
+  Reporting
+Field
+  Grantee_ID
+  Report_ID
+  Report_Type
+  Due_Date
+  Submission_Date
+  Status
+  Reason_For_Rejection
+  Reporting_Notes
