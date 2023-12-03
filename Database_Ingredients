@@ -1,0 +1,18 @@
+Detailed Requirements of Each Grant:
+Understanding the specific DOJ record-keeping requirements for each grant is crucial. This includes what data needs to be collected, tracked, and reported for each grant.
+Data Elements to be Collected:
+A list of all the data elements you need to collect for each grant. This can include items like grantee details, funding amounts, project milestones, reporting dates, etc.
+Relationships Among Data Elements:
+Information on how different data elements are related. For instance, if certain data points are specific to a particular grant or if they overlap across multiple grants.
+Reporting Requirements:
+Specifics on the reporting requirements for each grant, including the frequency of reports, the type of data to be included in reports, and any formatting guidelines.
+User Interaction and Access Needs:
+Details on how users will interact with the database. Who will be entering data, who will need read-only access, and what kind of access different users should have.
+Existing Data:
+If there is existing data that needs to be imported into the new database, details about this data, including its current format and structure.
+Workflow and Processes:
+Understanding of the workflow and processes related to these grants, like how data is collected, processed, and reported.
+Future Needs and Scalability:
+Any potential future expansions or changes in requirements that the database might need to accommodate.
+Security and Compliance Requirements:
+Information on any security protocols and compliance standards that need to be adhered to, especially given that this involves Federal grants.
