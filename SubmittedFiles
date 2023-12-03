@@ -1,0 +1,9 @@
+Table: 
+  Submitted Forms
+Fields:
+  Required_Form_ID
+  Submission_ID
+  Form_Due_Date 
+  Form_Submission_Date
+  Form_Submission_Status
+  Submitted_Form_Link
