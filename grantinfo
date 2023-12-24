@@ -1,0 +1,22 @@
+Open Your Database in Access:
+Open your existing database or create a new one for this project.
+Create a New Table in Design View:
+In the Access interface, go to the 'Create' tab and select 'Table Design'.
+Defining Fields for General Grant Information:
+For each piece of information you mentioned, you'll create a field in the table. Here's a suggested structure:
+Grant Name: A text field for the name of the grant.
+Year: A number field (or text, if you prefer) for the year of the grant.
+Presence of Match Requirements: A Yes/No field indicating if matching funds are required.
+Details of Matching Requirements: A text field for details on the matching requirements, if any.
+Award Acceptance Deadline: A date/time field for the deadline to accept the award.
+Semi-Annual Progress Report Deadline: A date/time field for the deadline of the semi-annual progress report.
+Monthly Progress Report Deadline: A date/time field for the deadline of the monthly progress report.
+Setting a Primary Key:
+You should assign a primary key that uniquely identifies each record. This could be an auto-generated ID or a unique combination like "Grant Name" and "Year".
+Save the Table:
+Save the table with a descriptive name, like 'tblGrantInfo'.
+Enter Data into the Table (Optional):
+Switch to 'Datasheet View' to start entering data into your new table.
+Considerations for Future Expansion:
+Think about additional fields you might need in the future, like links to related tables (e.g., grantee information, financial data).
+This table will serve as a central point for storing general information about each grant. As your database grows, you might create additional tables for more specific details and establish relationships with this table.

@@ -1,0 +1,34 @@
+Setting up the Grantee Information table to link back to specific grants and to store detailed contact information requires careful planning. You'll also want to track changes in key personnel like the project director and financial officer. Here's how to approach this:
+
+1. **Designing the Grantee Information Table**:
+   - Open your database in Access and create a new table in Design View.
+   - Define the following fields:
+     - **Grantee ID**: A unique identifier for each grantee (primary key).
+     - **Grant CFDA Number**: To link each grantee to a specific grant. This field should correspond to the CFDA Number in the Grant Information table.
+     - **Project Director Email**: A text field for the email address of the project director.
+     - **Financial Officer Email**: A text field for the email address of the financial officer.
+     - **Year**: A number or text field indicating the year associated with the grant.
+
+2. **Tracking Changes in Key Personnel**:
+   - To track changes in project directors or financial officers, you have a few options:
+     - **Option 1: Additional Fields**: Add fields like 'Previous Project Director Email' and 'Previous Financial Officer Email'.
+     - **Option 2: Separate Table**: Create a separate table to log changes in key personnel, with fields for Grantee ID, Previous Director Email, New Director Email, Change Date, etc.
+
+3. **Setting up Relationships**:
+   - In the Database Tools tab, open the Relationships window.
+   - Drag the 'Grant CFDA Number' field from the Grantee Information table to the 'CFDA Number' field in the Grant Information table. This creates a relationship between the two tables.
+
+4. **Data Integrity**:
+   - Set up data integrity rules to ensure that the CFDA numbers entered in the Grantee table correspond to existing records in the Grant Information table.
+
+5. **Forms for Data Entry**:
+   - Create forms based on this table for easier data entry.
+   - Include fields for both current and previous project directors and financial officers, if you’re using the additional fields method.
+
+6. **Queries and Reports for Tracking Changes**:
+   - Design queries to filter and report on changes in project directors and financial officers.
+   - If you have a separate change log table, you can easily generate reports to track these changes over time.
+
+This setup will allow you to not only link each grantee to a specific grant but also efficiently manage and track key personnel changes. Remember, the design may need to be adjusted based on your specific requirements and the nature of the data you're dealing with.
+
+If you need further assistance or have other aspects of the database to discuss, feel free to ask!

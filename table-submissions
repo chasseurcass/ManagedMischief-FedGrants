@@ -1,0 +1,32 @@
+To keep a running count of late or rejected submissions in your database, you can use queries in Microsoft Access. These queries will calculate and display the total number of late or rejected submissions based on the data in your reporting table. Here's how to set this up:
+
+1. **Create a Query for Late Submissions**:
+   - Open your database and go to the 'Create' tab, then click 'Query Design'.
+   - Add your Reporting Table to the query.
+   - In the query design grid, add the fields you need (e.g., Report ID, Submission Date, Due Date).
+   - Create a calculated field to determine if a report is late. For example: `IsLate: IIf([Submission Date] > [Due Date], "Yes", "No")`.
+   - Under the 'Total' row in the design grid (turn it on if it’s not visible), set the 'IsLate' field to 'Where' and the condition to “Yes”.
+   - Then, switch to the 'Totals' view (by clicking the Σ symbol), and set the 'Report ID' field to 'Count'. This will count the number of late reports.
+
+2. **Create a Query for Rejected Submissions**:
+   - Similarly, create another query for rejected submissions.
+   - Add the Reporting Table and include fields like Report ID and Status.
+   - Set the 'Status' field to 'Where' and the condition to “Rejected”.
+   - Use the 'Totals' view to count the number of records where the status is 'Rejected'.
+
+3. **Saving and Running Your Queries**:
+   - Save these queries with descriptive names like 'Count of Late Submissions' and 'Count of Rejected Submissions'.
+   - Run these queries to view the current count of late or rejected submissions.
+
+4. **Regular Updates**:
+   - Ensure that your reporting table is regularly updated with the latest submission dates and statuses to keep the counts accurate.
+
+5. **Using Forms or Reports**:
+   - You can also create a dashboard-like form or a report in Access that includes these queries to display the running counts.
+
+6. **Automating Updates**:
+   - Consider setting up a macro or VBA script to refresh these counts automatically or upon opening the database or a specific form.
+
+This method will give you a dynamic count of late and rejected submissions, updating as new data is entered into the database. It's an effective way to keep track of reporting compliance and identify areas where improvements may be needed.
+
+If you need further assistance with these queries or have other questions, feel free to ask!

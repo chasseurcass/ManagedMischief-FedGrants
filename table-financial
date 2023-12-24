@@ -1,0 +1,41 @@
+Creating a Financial Information Table in your database will involve careful planning to track various financial aspects of each grant effectively. Here’s how you can format this table in Microsoft Access:
+
+1. **Open Your Database and Create a New Table**:
+   - In Access, open your existing database.
+   - Create a new table in Design View.
+
+2. **Defining Fields for Financial Information**:
+   - **Grant CFDA Number**: A text field linking to the CFDA Number in the Grant Information table. This field forms part of the relationship between tables.
+   - **Award Date**: A date/time field for when the grant was awarded.
+   - **Award Amount**: A currency field for the total amount of the grant awarded.
+   - **Match Required**: A Yes/No field indicating if a match amount is required.
+   - **Match Amount**: A currency field for the amount of matching funds, if applicable. This can be set to be active only if "Match Required" is Yes.
+   - **Funds Disbursed**: A currency field for the amount of funds that have been disbursed to date.
+   - **Funds Remaining**: This can be a calculated field that subtracts the 'Funds Disbursed' from the 'Award Amount'.
+
+3. **Setting a Primary Key**:
+   - You might use a composite key that includes the 'Grant CFDA Number' and another unique identifier, or you could create a unique Financial Record ID for each entry.
+
+4. **Establishing Relationships**:
+   - Ensure that the 'Grant CFDA Number' in this table is linked to the 'CFDA Number' in your Grant Information table. This creates a relational link between the two.
+
+5. **Data Validation and Integrity**:
+   - Set up validation rules to ensure accuracy, such as preventing the entry of disbursed funds that exceed the award amount.
+   - Ensure that the match amount is only entered if the match requirement is Yes.
+
+6. **Automating Calculations**:
+   - Use calculated fields or Access expressions to automatically calculate fields like 'Funds Remaining'.
+
+7. **Save and Name Your Table**:
+   - Save the table with an appropriate name, such as 'tblFinancialInfo'.
+
+8. **Forms for Data Entry**:
+   - Design forms for entering financial data into this table. Ensure that the forms are user-friendly and include necessary validations.
+
+9. **Queries and Reports**:
+   - Create queries to analyze financial data, such as total funds disbursed across all grants, or funds remaining for a specific grant.
+   - Design reports for financial summaries and overviews, which can be used for internal tracking or external reporting.
+
+This table will be crucial for managing the financial aspects of your grants and ensuring that funds are tracked accurately. Remember to regularly review and test your table and forms to ensure that they meet your needs effectively.
+
+If you have more specific needs or another aspect of the database you’d like to discuss, feel free to ask!

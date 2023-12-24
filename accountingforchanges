@@ -1,0 +1,43 @@
+To account for changes in required forms per year for each grant in your database, you need a flexible structure that allows for annual updates. Here's an approach to handle this in Microsoft Access:
+
+1. **Create a Table for Required Forms**:
+   - This table will list all the forms required for each grant, potentially changing each year.
+   - Fields might include Form ID (primary key), Grant CFDA Number, Form Name, Year, and any other relevant details.
+
+2. **Include a Year Field**:
+   - Add a 'Year' field to this table to specify the year for which the form is required.
+   - This allows you to have multiple entries for the same form across different years.
+
+3. **Create a Table for Form Submissions**:
+   - This is separate from the table listing required forms. It tracks actual submissions.
+   - Include fields like Submission ID, Form ID (linking to the Required Forms table), Submission Date, and Status.
+
+4. **Linking Required Forms to Submissions**:
+   - Establish a relationship between the Required Forms table and the Form Submissions table using the Form ID.
+   - This way, you can track which forms have been submitted each year and which are pending.
+
+5. **Updating Required Forms Annually**:
+   - At the start of each year (or grant cycle), update the Required Forms table to reflect the forms needed for that year.
+   - This may involve adding new records for new forms, updating existing records, or marking certain forms as no longer required.
+
+6. **Queries for Tracking and Reporting**:
+   - Create queries to report on forms required for a specific year, forms submitted, and forms pending.
+   - These queries can filter records based on the Year field and the status of submissions.
+
+7. **Forms for Data Management**:
+   - Design user-friendly forms in Access for managing required forms and tracking submissions.
+   - These forms can help in entering and updating data related to required forms and their submissions.
+
+8. **Handling Form Changes**:
+   - When forms change (are added, removed, or modified), update the Required Forms table accordingly.
+   - Ensure that historical data is maintained for reference.
+
+9. **Regular Reviews**:
+   - Regularly review the list of required forms and the submissions to ensure compliance with the updated requirements.
+
+10. **Data Validation and Integrity**:
+    - Implement data validation rules to ensure that form submissions correspond to the required forms for the correct year.
+
+By setting up your database in this way, you can effectively manage the changing requirements for grant forms on a year-by-year basis, ensuring accurate and up-to-date tracking of all necessary documentation.
+
+If you need further assistance or have more questions about your database, feel free to ask!
