@@ -1,0 +1,10 @@
+Table:
+  Financial_Information
+Fields:
+  Granteee_ID
+  Award_Date
+  Award_Amount 
+  Match_Required
+  Match_Amount
+  Funds_Disbursed
+  Funds_Remaining

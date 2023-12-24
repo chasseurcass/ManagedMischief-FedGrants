@@ -1,0 +1,13 @@
+Table: 
+  Personnel_Change_Log
+Fields:
+  Grantee_ID
+  Former_PD_Email
+  New_PD_Email
+  Former_FO_Email
+  New_FO_Email
+  Change_Submission_Date
+  Change_Submitted_By
+  Approved_Date
+  Approved_By
+  Notes
