@@ -3,6 +3,7 @@
 
 ## Part I: Organization Information 
 
+---
 | General Information                                   |
 | ----------- | --------------------------------------- |
 | Name        |                                         |
@@ -11,6 +12,7 @@
 | Expiration  |                                         |
 
 
-----
+---
+
 
 
