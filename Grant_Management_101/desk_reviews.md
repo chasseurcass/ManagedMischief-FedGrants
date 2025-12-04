@@ -9,10 +9,11 @@
 | Name        |     [Organization]                      |
 | Address     |    [Organization Address]               |
 | UEI         |    [Organization UEI]                   |
-| Expiration  |    [Organization Expiration]            |
+| Expiration  |    [UEI Expiration]            |
 
 
 ---
+
 
 
 
