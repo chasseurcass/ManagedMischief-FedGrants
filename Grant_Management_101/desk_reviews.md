@@ -4,7 +4,7 @@
 ## Part I: Organization Information 
 
 ---
-| General Information                                   |
+| General Information |
 | ----------- | --------------------------------------- |
 | Name        |                                         |
 | Address     |                                         |
@@ -13,6 +13,7 @@
 
 
 ---
+
 
 
 
