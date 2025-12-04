@@ -3,15 +3,14 @@
 
 ## Part I: Organization Information 
 
-| General Information |
-----------------------
-| Name |                  |
-------- ------------------
-| Address |                  |
----------- ------------------
-| UEI |                  |
------- ------------------
-| Expiration |                  |
-------------- ------------------
+| General Information                                   |
+| ----------- | --------------------------------------- |
+| Name        |                                         |
+| Address     |                                         |
+| UEI         |                                         |
+| Expiration  |                                         |
+
+
 ----
+
 
