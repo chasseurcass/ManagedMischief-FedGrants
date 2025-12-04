@@ -7,12 +7,13 @@
 | Info        |                                         |
 | ----------- | --------------------------------------- |
 | Name        |     [Organization]     |
-| Address     |                                         |
-| UEI         |                                         |
-| Expiration  |                                         |
+| Address     |             [Organization Address]                            |
+| UEI         |                    [Organization UEI]                     |
+| Expiration  |                         [Organization Expiration]                |
 
 
 ---
+
 
 
 
