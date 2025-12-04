@@ -3,7 +3,7 @@
 
 ## Part I: Organization Information 
 
----
+
 | Info        |                                         |
 | ----------- | --------------------------------------- |
 | Name        |     [Organization]                      |
@@ -13,6 +13,7 @@
 
 
 ---
+
 
 
 
