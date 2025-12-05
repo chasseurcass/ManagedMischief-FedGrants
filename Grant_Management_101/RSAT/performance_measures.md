@@ -3,6 +3,7 @@
 ## General Award Information
 1. Is this the last reporting period for which the award will have data to report?
 For example, were all funds expended and is the award in the process of closing out in the Grants Management System?
+
 - [] Yes
 - [] No
 - If Yes, answer the semiannual narrative questions.)
@@ -11,20 +12,22 @@ For example, were all funds expended and is the award in the process of closing 
 has obligated, expended, or drawn down grant funds to implement objectives proposed in the Bureau
 of Justice Assistance (BJA)-approved grant application. If you select Yes, the program becomes
 Operational and should remain so until the grant closes out?
-Reason(s) for no grant activity during the reporting period. Select all that apply
-In procurement ☐
-Project or budget not approved by agency, county, city, or state
-governing agency ☐
-Seeking subcontractors (Request for Proposal stage only) ☐
-Waiting to hire project manager, additional staff, or coordinating staff ☐
-Paying for the program using prior federal funds ☐
-Administrative hold (e.g., court case pending) ☐
-Still seeking budget approval from BJA ☐
-Waiting for partners or collaborators to complete agreements ☐
-Other ☐
-If Other, please
-explain
-ACTIVITY TYPE
+
+## Reason(s) for no grant activity during the reporting period. 
+
+
+| Select all that apply |  | 
+|---------------------- | - |
+| In procurement |  |
+| Project or budget not approved by agency, county, city, state or governing agency | [ ] |
+| Seeking subcontractors (Request for Proposal stage only) | [ ] |
+| Waiting to hire project manager, additional staff, or coordinating staff | [ ] |
+| Paying for the program using prior federal funds | [ ] |
+| Administrative hold (e.g., court case pending) | [ ] |
+| Still seeking budget approval from BJA | [ ] |
+| Waiting for partners or collaborators to complete agreements | [ ] |
+| Other | [ ] |
+| If Other, please explain |
 
 4. What type of services do you provide to participants in your RSAT program? Select the
 services that best reflect the program design.
