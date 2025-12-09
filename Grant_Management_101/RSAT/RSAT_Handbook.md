@@ -1,9 +1,11 @@
-Residential Substance Abuse Treatment (RSAT) Program: A Performance Measurement and Reporting Handbook
-Introduction: Purpose and Scope of this Guide
-This handbook establishes the operational framework for Residential Substance Abuse Treatment (RSAT) program managers to ensure consistent and accurate data collection and reporting. It synthesizes the performance measures established by the Bureau of Justice Assistance (BJA) into a clear, actionable guide. Diligent reporting is not merely a grant requirement; it is essential for demonstrating program effectiveness, ensuring accountability to stakeholders, and contributing to the national understanding of what works in substance abuse treatment for justice-involved populations. Adherence to these standards allows BJA to assess the collective impact of RSAT programs nationwide and to provide targeted support to its grantees.
-It is important to note that the performance measures outlined in this document reflect the version REVISED SEPTEMBER 2025. Furthermore, program managers should be aware of the following official disclaimer: "The performance measure questions presented here are preliminary and may be subject to revision. This document is only to be used for planning and data collection purposes."
---------------------------------------------------------------------------------
-1.0 General Grant Administration and Operational Status
+# Residential Substance Abuse Treatment (RSAT) Program: A Performance Measurement and Reporting Handbook
+
+I. Introduction: Purpose and Scope of this Guide
+This handbook establishes the operational framework for Residential Substance Abuse Treatment (RSAT) program managers 
+
+II. What is RSAT
+
+III. General Grant Administration and Operational Status
 Reporting on general grant administration provides the Bureau of Justice Assistance (BJA) with a critical, high-level snapshot of your grant's lifecycle stage and operational activity. These initial metrics are fundamental for federal oversight, allowing BJA to monitor progress, identify potential barriers, and offer timely support to grantees.
 1.1 Reporting Period Status
 During each reporting period, you must indicate whether it is the final period for which your award will have data to report. Answering "Yes" indicates that your program is concluding its grant-funded activities. For example, you should answer "Yes" if all funds have been expended and the award is in the process of closing out in the Grants Management System. This response also serves as the trigger to complete the required semiannual narrative questions, which provide a final summary of your program's activities and outcomes.
