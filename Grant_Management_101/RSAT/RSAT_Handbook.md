@@ -1,11 +1,70 @@
-# Residential Substance Abuse Treatment (RSAT) Program: A Performance Measurement and Reporting Handbook
+# Residential Substance Abuse Treatment (RSAT) Program: A Handbook
 
 I. Introduction: Purpose and Scope of this Guide
 This handbook establishes the operational framework for Residential Substance Abuse Treatment (RSAT) program managers 
 
-II. What is RSAT
+## II. RSAT: What the Program Is Designed to Fund
 
-III. General Grant Administration and Operational Status
+The federal Residential Substance Abuse Treatment (RSAT) Program supports **in-custody, residential substance use disorder treatment** delivered inside secure juvenile or adult facilities. RSAT programs must operate as **structured therapeutic units** where participants live apart from the general population and receive evidence-based SUD treatment. 
+US Code expressly states that "RSAT programs must house participants in a dedicated (segregated) residential unit separate from the general inmate population." This is one of RSAT’s most important and distinctive requirements. Reference: 34 U.S.C. § 10424(b)(2)
+
+Overview of the programs
+
+1. Residential RSAT Programs
+
+Setting: State or local prison, juvenile correctional facility, or other secure residential facility.
+
+Duration: 6 to 12 months of treatment.
+
+Key Requirement: Participants must be housed in a dedicated, segregated treatment unit separate from the general facility population.
+
+Start Point: Treatment must begin while the individual is still in custody.
+
+Description:
+- [ ] Provides evidence-based, residential substance use disorder treatment.
+- [ ] Includes structured therapeutic, cognitive-behavioral, and recovery programming delivered inside the facility.
+- [ ] Prepares participants for transition into community-based aftercare.
+
+2. Jail-Based RSAT Programs
+
+Setting: Local jail or short-term detention facility.
+
+Duration: Typically 3 to 6 months, consistent with average jail lengths of stay (BJA guidance).
+
+Key Requirement: Participants must be separated from the general jail population in a dedicated treatment pod or unit.
+
+Start Point: Treatment must begin while the individual is detained.
+
+Description:
+- [ ] Offers evidence-based therapeutic programming adapted to jail settings.
+- [ ] Focuses on cognitive-behavioral treatment, motivational interventions, and reentry preparation.
+- [ ] Must meet RSAT requirements “to the extent feasible” due to shorter custody periods.
+
+3. RSAT Aftercare Programs
+
+Setting: Community-based, nonresidential.
+
+Duration: Up to 6 to 12 months, but depends on release timing and reentry plan.
+
+Start Point: Aftercare is allowable only for individuals who completed an RSAT residential or jail-based program while in custody.
+
+Description:
+
+- [ ] Provides relapse-prevention, recovery support, case management, and continuity of care.
+- [ ] Must be a continuation of the RSAT in-custody treatment received before release.
+
+| RSAT Program Type | Setting                           | Duration          | Must Start in Custody?                    | Segregated Unit?         | Notes                                                 |
+| ----------------- | --------------------------------- | ----------------- | ----------------------------------------- | ------------------------ | ----------------------------------------------------- |
+| **Residential**   | Prison / juvenile secure facility | 6–12 months       | Yes                                       | Yes                      | Full RSAT model; evidence-based residential treatment |
+| **Jail-Based**    | Local jail                        | 3–6 months        | Yes                                       | Yes (to extent feasible) | Shorter, adapted version of RSAT                      |
+| **Aftercare**     | Community                         | Up to 6–12 months | **Only after completing an RSAT program** | No                       | Must be continuation of in-custody RSAT treatment     |
+
+Key Takeaways 
+1. RSAT must be started while the individual is still in custody
+2. The treatment community must be seperate from the general population
+3. **Community-based aftercare**, must be continuation of the in-custody RSAT program the individual just completed. This creates a consistent treatment pathway from custody to reentry. RSAT can serve as the **facility-based treatment anchor**, while other federal programs often support **community-based reentry, stabilization, family engagement, mentoring, and outpatient services**.
+
+## III. General Grant Administration and Operational Status
 Reporting on general grant administration provides the Bureau of Justice Assistance (BJA) with a critical, high-level snapshot of your grant's lifecycle stage and operational activity. These initial metrics are fundamental for federal oversight, allowing BJA to monitor progress, identify potential barriers, and offer timely support to grantees.
 1.1 Reporting Period Status
 During each reporting period, you must indicate whether it is the final period for which your award will have data to report. Answering "Yes" indicates that your program is concluding its grant-funded activities. For example, you should answer "Yes" if all funds have been expended and the award is in the process of closing out in the Grants Management System. This response also serves as the trigger to complete the required semiannual narrative questions, which provide a final summary of your program's activities and outcomes.
