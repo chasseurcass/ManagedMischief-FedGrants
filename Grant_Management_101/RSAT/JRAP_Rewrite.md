@@ -1,4 +1,107 @@
-# 1. PROGRAM NARRATIVE VERSION
+# Section I
+I.I. Executive Summary: Juvenile Reentry and Aftercare Program (JRAP)
+
+The Juvenile Reentry and Aftercare Program (JRAP) is a comprehensive, coordinated continuum of services that supports youth transitioning from secure placement back into the community. JRAP focuses on promoting long-term recovery, family stability, educational and vocational engagement, and positive community integration for adolescents impacted by substance use and related behavioral challenges.
+
+To meet the multifaceted needs of youth returning from placement, JRAP implements a braided funding model that aligns each component of the program with the federal grant source best suited to support it. This structure allows JRAP to deliver integrated, evidence-based programming across multiple domains while ensuring each funding stream is used for activities consistent with its statutory purpose.
+
+# I.II. Core JRAP Program Domains
+
+i. Substance Use Disorder Treatment and Recovery
+JRAP provides structured relapse-prevention support, outpatient treatment, family-centered recovery interventions, peer recovery services, and coordinated treatment navigation. These activities are supported through BJA’s COSSUP program and complementary peer recovery initiatives.
+
+ii. Family Engagement and Opioid-Affected Youth Supports
+Family stability is strengthened through targeted engagement strategies, culturally responsive supports, and youth–family programming that address the impacts of opioids and other substances. These services are supported by the Opioid-Affected Youth Initiative and Protecting Futures.
+
+iii. Mentorship and Prosocial Development
+Mentoring programs build consistent, prosocial relationships through individual and group mentoring, culturally responsive matching, and youth support activities. These services are supported by OJJDP’s Mentoring for Youth Affected by Substance Misuse program.
+
+IV. Reentry Stabilization
+Youth receive assistance with transitional housing coordination, academic re-engagement, employment readiness, transportation, and basic needs. These activities are supported through JJDP Title II formula funding.
+
+v. Community Responsiveness and Restorative Practices
+JRAP fosters community inclusion and cultural connection by strengthening provider diversity, restoring relationships, and building protective community assets. These strategies are supported by Youth Violence Prevention (16.827).
+
+vi. Accountability and Restitution Support
+Juvenile Accountability (16.523) funds basic restitution coordination and structured accountability tasks that reinforce responsibility during reentry.
+
+# I.III. Integrated Implementation Approach
+
+JRAP uses shared assessments, multidisciplinary planning, cross-trained staff, unified data collection, and coordinated service delivery to ensure youth experience a seamless continuum of care regardless of funding source. Providers and staff operate as a unified team implementing complementary components that together promote recovery, stability, and long-term success.
+
+# I.IV. Outcome Goals
+
+- [ ] Improved recovery and reduced substance use
+- [ ] Increased school re-engagement and employment readiness
+- [ ] Strengthened family functioning
+- [ ] Lower recidivism
+- [ ] Greater community connection and cultural responsiveness
+- [ ] Increased youth stability and protective factors
+
+JRAP’s braided funding approach ensures a sustainable, integrated, and comprehensive reentry model that effectively supports youth across all areas of need.
+
+Section II:. Why Braided Funding Strengthens Outcomes
+
+II.I Justification for Braided Funding in JRAP
+
+The needs of youth returning from secure placement are multidimensional and cannot be effectively met by a single funding source. Youth impacted by substance use require coordinated support across treatment, recovery, family stability, educational re-engagement, community connection, and accountability frameworks. A braided funding approach enables the Juvenile Reentry and Aftercare Program (JRAP) to deliver a comprehensive, integrated service continuum while ensuring that each federal funding stream is used for activities clearly aligned with its statutory purpose.
+
+II.II. Braided Funding Aligns Resources With Specialized Domains of Need
+
+Federal grant programs are designed to address specific aspects of youth substance use, reentry, community safety, and developmental support. No single program provides adequate coverage across all domains. By aligning JRAP components with the programs best suited to support them—such as COSSUP for treatment continuity, Title II for reentry stabilization, Youth Violence Prevention for community supports, and mentoring programs for prosocial development—JRAP ensures that each youth receives services informed by the highest level of programmatic expertise.
+
+II.III. Braided Funding Enhances Program Quality Through Targeted Investments
+
+Different funding streams bring distinct strengths.
+
+COSSUP provides deep treatment and recovery infrastructure.
+
+Opioid-Affected Youth resources strengthen family engagement and address opioid-related challenges.
+
+Mentoring programs build consistent, positive relationships.
+
+Title II supports academic, employment, and stabilization needs.
+
+Youth Violence Prevention strengthens cultural responsiveness and community safety.
+
+Integrating these targeted investments enables JRAP to offer a higher-quality, more responsive service array than reliance on any single funding source could provide.
+
+I.IV. Braided Funding Reduces Service Gaps and Prevents Fragmentation
+
+Youth often fall through gaps when services depend on a single program’s scope. The braided model avoids fragmentation by:
+
+covering all major dimensions of successful reentry,
+
+ensuring treatment and recovery are linked to family and community supports,
+
+aligning youth development and accountability activities with reentry and recovery needs,
+
+allowing JRAP to adjust quickly when one funding source changes or ends.
+
+This approach results in more continuous and coordinated care.
+
+II.V. Braided Funding Strengthens Collaboration and System Capacity
+
+Implementing multiple complementary funding streams encourages collaboration across agencies, service providers, community partners, and justice system stakeholders. Through shared training, integrated planning, and consistent youth-centered practices, JRAP strengthens the broader system’s capacity to address youth substance use and reentry challenges holistically.
+
+II.VI. Braided Funding Improves Long-Term Sustainability
+
+Diversification of funding reduces reliance on any single grant and helps ensure stability across fiscal cycles. As one grant period ends, its functions can transition to the next funding opportunity with minimal disruption. Braided funding also allows JRAP to leverage new federal priorities as they emerge, ensuring continued relevance and adaptability.
+
+II.VII. Braided Funding Produces Stronger Outcomes
+
+A comprehensive model combining treatment, recovery, academic support, employment readiness, mentoring, restorative practices, and family engagement produces greater improvements than isolated interventions. Youth supported through integrated braided models experience:
+
+- [ ] improved treatment retention
+- [ ] stronger family relationships
+- [ ] higher rates of school and work engagement
+- [ ] enhanced community connection
+- [ ] sustained reductions in recidivism and substance use.
+
+The braided funding structure is essential to achieving JRAP’s vision of long-term recovery, stability, and positive youth development.
+
+
+# 1. PROGRAM NARRATIVE
 
 ## A. Program Narrative: Braided Funding Model Overview
 
@@ -32,7 +135,7 @@ JRAP integrates restitution, compliance activities, and structured accountabilit
 The braided model ensures that each JRAP activity is supported by the most appropriate funding source while youth experience a coherent, integrated system of care.
 
 
-# 2. BUDGET NARRATIVE VERSION
+# 2. BUDGET NARRATIVE 
 
 ## Braided Funding Cost Structure
 
