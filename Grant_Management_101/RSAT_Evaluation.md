@@ -1,4 +1,4 @@
-# **A. Program Basics (All RSAT projects)**
+# **A. Program Basics**
 
 A1. Program type clearly identified
 
@@ -23,7 +23,7 @@ A3. RSAT funds clearly tied to a distinct program
 - [ ]  Eligibility criteria for RSAT participants are described
 - [ ]  RSAT participants are tracked separately from the general population
 
-# **B. Substance Use Treatment Component (Required – all RSAT)**
+# **B. Substance Use Treatment Component**
 
 This is the “T” in RSAT. There must be a real, defined SUD treatment component.
 
@@ -287,3 +287,39 @@ Placement/education/ MH stability addressed
 - SAMHSA Advisory: “Screening and Treatment of Substance Use Disorders among Adolescents” (based on TIP 31 and TIP 32) – guidance on adolescent-specific SUD screening and treatment.
 - SAMHSA TIP 32: “Treatment of Adolescents With Substance Use Disorders” – details on adolescent-appropriate SUD treatment approaches.
 - OJJDP / related juvenile justice resources on reentry and behavioral interventions (e.g., model programs for MST, FFT, BSFT and the importance of education and placement stability in reentry).
+
+'''
+                           RSAT ELIGIBILITY FLOW
+
+                           Is the youth in custody?
+                                    |
+                    ----------------+----------------
+                    |                                 |
+                  YES                               NO
+                    |                                 |
+        Is the youth in a secure facility?          Not RSAT
+                    |
+          ------------------------
+          |                      |
+       Yes                    Short-term
+          |                      |
+  Is length of stay            Is LOS long
+  approx. 6–12 months?        enough for 3–6 months?
+          |                      |
+     -------                     -------
+     |     |                     |     |
+   Yes    No                  Yes     No
+     |      |                 |        |
+Residential RSAT         Detention-   Not RSAT
+ Program Applies          Based RSAT
+                          Program Applies
+
+After release:
+Was the youth in an RSAT program in custody?
+          |
+     Yes       No
+      |         |
+RSAT Aftercare  Not RSAT Aftercare
+   Applies
+
+'''
