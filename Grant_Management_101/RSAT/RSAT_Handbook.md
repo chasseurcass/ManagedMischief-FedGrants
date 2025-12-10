@@ -1,6 +1,6 @@
 # Residential Substance Abuse Treatment (RSAT) Program: A Handbook
 
-I. Introduction: Purpose and Scope of this Guide
+## I. Introduction: Purpose and Scope of this Guide
 This handbook establishes the operational framework for Residential Substance Abuse Treatment (RSAT) program managers 
 
 ## II. RSAT: What the Program Is Designed to Fund
@@ -12,13 +12,13 @@ Overview of the programs
 
 1. Residential RSAT Programs
 
-Setting: State or local prison, juvenile correctional facility, or other secure residential facility.
+    - Setting: State or local prison, juvenile correctional facility, or other secure residential facility.
 
-Duration: 6 to 12 months of treatment.
+    - Duration: 6 to 12 months of treatment.
 
-Key Requirement: Participants must be housed in a dedicated, segregated treatment unit separate from the general facility population.
+    - Key Requirement: Participants must be housed in a dedicated, segregated treatment unit separate from the general facility population.
 
-Start Point: Treatment must begin while the individual is still in custody.
+    - Start Point: Treatment must begin while the individual is still in custody.
 
 Description:
 - [ ] Provides evidence-based, residential substance use disorder treatment.
