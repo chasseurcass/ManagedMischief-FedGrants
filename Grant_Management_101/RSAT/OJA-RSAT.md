@@ -1898,8 +1898,7 @@ This is formatted so you can paste it directly into a monitoring report, finding
 | RSAT Statutory Requirement (Legal Citation) | What the Statute Requires | OJA’s Current Program (Based on Documentation) | Compliance Outcome |
 | ------------------------------------------- | ------------------------- | ---------------------------------------------- | ------------------ |
 
-| **34 U.S.C. 10424(b)(1)**
-Funds may be used for programs that **“provide residential substance abuse treatment”** in correctional facilities. | Must fund **residential** SUD treatment delivered within a correctional setting. Must be an actual *treatment program*, not general supportive services. | No residential SUD treatment unit. Youth housed in Level E general population units. Activities provided by PIVOT are non-clinical (case management, FFT, coordination). | **Not Met** |
+| **34 U.S.C. 10424(b)(1)** | Funds may be used for programs that **“provide residential substance abuse treatment”** in correctional facilities. | Must fund **residential** SUD treatment delivered within a correctional setting. Must be an actual *treatment program*, not general supportive services. | No residential SUD treatment unit. Youth housed in Level E general population units. Activities provided by PIVOT are non-clinical (case management, FFT, coordination). | **Not Met** |
 
 | **34 U.S.C. 10424(b)(2)**
 Treatment must occur in a **“residential facility or dedicated treatment unit set apart from the general population.”** | A physically separate treatment unit is required. Must be staffed and organized for treatment-only participants. | No dedicated RSAT unit. No separation from general population. No clinical staffing of any RSAT unit. | **Not Met** |
